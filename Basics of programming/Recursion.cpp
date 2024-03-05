@@ -59,7 +59,7 @@ using namespace std;
 // }
 
 
-// Reversing the array
+//* Reversing the array
 // void printArray(int ans[]) {
 //   cout << "The reversed array is:- ";
 //    for (int i = 0; i < 5; i++) {
