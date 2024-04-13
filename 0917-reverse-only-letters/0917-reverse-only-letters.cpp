@@ -4,7 +4,7 @@ public:
         int low = 0;
         int high = s.length()-1;
         while(high>=low){
-            if(isalpha(s[low]) && isalpha(s[high])){    //using the isalpha() function for check if both are alphabetic
+            if(isalpha(s[low]) && isalpha(s[high])){    //using the isalpha() function for check if botha characters are alphabetic
                 swap(s[low],s[high]);
                 low++;
                 high--;
