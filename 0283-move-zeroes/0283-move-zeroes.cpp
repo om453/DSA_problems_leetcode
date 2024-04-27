@@ -4,7 +4,7 @@ public:
           int j = -1;   //place the pointer j
 
     for (int i = 0; i < nums.size(); i++) {
-        if (nums[i] == 0) {
+        if (nums[i] == 0) {        // edge case
             j = i;
             break;
         }
