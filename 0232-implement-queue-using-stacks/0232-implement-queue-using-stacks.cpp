@@ -12,9 +12,9 @@ public:
         if(input.empty()) {
             peekEl = x;
         }
-        input.push(x); //ye to har baar karna hai
+        input.push(x);
     }
-    //amortized O(1)
+    
     int pop() {
         if(output.empty()) {
             //input -> output O(n)
