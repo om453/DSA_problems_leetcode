@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/om453/DSA_problems_leetcode/tree/master/0087-scramble-string) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/om453/DSA_problems_leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## String
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/om453/DSA_problems_leetcode/tree/master/0087-scramble-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/om453/DSA_problems_leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
