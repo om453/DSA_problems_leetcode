@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/om453/DSA_problems_leetcode/tree/master/0202-happy-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/om453/DSA_problems_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3201-distribute-candies-among-children-ii](https://github.com/om453/DSA_problems_leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/om453/DSA_problems_leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/om453/DSA_problems_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/om453/DSA_problems_leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/om453/DSA_problems_leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
