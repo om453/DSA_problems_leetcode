@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/om453/DSA_problems_leetcode/tree/master/0455-assign-cookies) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/om453/DSA_problems_leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/om453/DSA_problems_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/om453/DSA_problems_leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/om453/DSA_problems_leetcode/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/om453/DSA_problems_leetcode/tree/master/0455-assign-cookies) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/om453/DSA_problems_leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/om453/DSA_problems_leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/om453/DSA_problems_leetcode/tree/master/0455-assign-cookies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/om453/DSA_problems_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/om453/DSA_problems_leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/om453/DSA_problems_leetcode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/om453/DSA_problems_leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Matrix
