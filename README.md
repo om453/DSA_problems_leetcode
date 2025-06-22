@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/om453/DSA_problems_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/om453/DSA_problems_leetcode/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/om453/DSA_problems_leetcode/tree/master/0455-assign-cookies) |
 ## Array
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/om453/DSA_problems_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0087-scramble-string](https://github.com/om453/DSA_problems_leetcode/tree/master/0087-scramble-string) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/om453/DSA_problems_leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/om453/DSA_problems_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0087-scramble-string](https://github.com/om453/DSA_problems_leetcode/tree/master/0087-scramble-string) |
 | [0383-ransom-note](https://github.com/om453/DSA_problems_leetcode/tree/master/0383-ransom-note) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
