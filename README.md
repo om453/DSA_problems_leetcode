@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/om453/DSA_problems_leetcode/tree/master/0087-scramble-string) |
 | [0383-ransom-note](https://github.com/om453/DSA_problems_leetcode/tree/master/0383-ransom-note) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/om453/DSA_problems_leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/om453/DSA_problems_leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sliding Window
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/om453/DSA_problems_leetcode/tree/master/0383-ransom-note) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/om453/DSA_problems_leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
