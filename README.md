@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/om453/DSA_problems_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0087-scramble-string](https://github.com/om453/DSA_problems_leetcode/tree/master/0087-scramble-string) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/om453/DSA_problems_leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/om453/DSA_problems_leetcode/tree/master/0087-scramble-string) |
 | [0383-ransom-note](https://github.com/om453/DSA_problems_leetcode/tree/master/0383-ransom-note) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/om453/DSA_problems_leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/om453/DSA_problems_leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sliding Window
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/om453/DSA_problems_leetcode/tree/master/0455-assign-cookies) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/om453/DSA_problems_leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/om453/DSA_problems_leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sorting
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/om453/DSA_problems_leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
