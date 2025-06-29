@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/om453/DSA_problems_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0087-scramble-string](https://github.com/om453/DSA_problems_leetcode/tree/master/0087-scramble-string) |
 | [0383-ransom-note](https://github.com/om453/DSA_problems_leetcode/tree/master/0383-ransom-note) |
+| [0851-goat-latin](https://github.com/om453/DSA_problems_leetcode/tree/master/0851-goat-latin) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/om453/DSA_problems_leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
