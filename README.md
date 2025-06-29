@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/om453/DSA_problems_leetcode/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/om453/DSA_problems_leetcode/tree/master/0326-power-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/om453/DSA_problems_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3201-distribute-candies-among-children-ii](https://github.com/om453/DSA_problems_leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/om453/DSA_problems_leetcode/tree/master/3321-type-of-triangle) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/om453/DSA_problems_leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
