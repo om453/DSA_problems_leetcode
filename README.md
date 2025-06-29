@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/om453/DSA_problems_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/om453/DSA_problems_leetcode/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/om453/DSA_problems_leetcode/tree/master/0455-assign-cookies) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/om453/DSA_problems_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Array
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/om453/DSA_problems_leetcode/tree/master/0455-assign-cookies) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/om453/DSA_problems_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/om453/DSA_problems_leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/om453/DSA_problems_leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/om453/DSA_problems_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/om453/DSA_problems_leetcode/tree/master/0455-assign-cookies) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/om453/DSA_problems_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/om453/DSA_problems_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/om453/DSA_problems_leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/om453/DSA_problems_leetcode/tree/master/3321-type-of-triangle) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/om453/DSA_problems_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/om453/DSA_problems_leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Memoization
 |  |
