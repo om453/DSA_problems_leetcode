@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/om453/DSA_problems_leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/om453/DSA_problems_leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3617-find-the-original-typed-string-i](https://github.com/om453/DSA_problems_leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
 |  |
 | ------- |
