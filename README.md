@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/om453/DSA_problems_leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/om453/DSA_problems_leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/om453/DSA_problems_leetcode/tree/master/0837-most-common-word) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/om453/DSA_problems_leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/om453/DSA_problems_leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Math
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/om453/DSA_problems_leetcode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/om453/DSA_problems_leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/om453/DSA_problems_leetcode/tree/master/0837-most-common-word) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/om453/DSA_problems_leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/om453/DSA_problems_leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/om453/DSA_problems_leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/om453/DSA_problems_leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/om453/DSA_problems_leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/om453/DSA_problems_leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/om453/DSA_problems_leetcode/tree/master/0837-most-common-word) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/om453/DSA_problems_leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/om453/DSA_problems_leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Simulation
 |  |
