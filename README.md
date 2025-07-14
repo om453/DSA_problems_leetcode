@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/om453/DSA_problems_leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/om453/DSA_problems_leetcode/tree/master/0326-power-of-three) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/om453/DSA_problems_leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/om453/DSA_problems_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3201-distribute-candies-among-children-ii](https://github.com/om453/DSA_problems_leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/om453/DSA_problems_leetcode/tree/master/3321-type-of-triangle) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/om453/DSA_problems_leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/om453/DSA_problems_leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
