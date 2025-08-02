@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/om453/DSA_problems_leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0837-most-common-word](https://github.com/om453/DSA_problems_leetcode/tree/master/0837-most-common-word) |
 | [0851-goat-latin](https://github.com/om453/DSA_problems_leetcode/tree/master/0851-goat-latin) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/om453/DSA_problems_leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/om453/DSA_problems_leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/om453/DSA_problems_leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
